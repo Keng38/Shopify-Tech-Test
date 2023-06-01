@@ -8,14 +8,15 @@ This assessment is an opportunity for us to see how you approach a task and also
 * A RRP Price
 * A Buy Now button (Non working)
 
-Since you have applied for a frontend position, we have supplied the GraphQL request for you and linked it to the fetch button already. You should aim to get your submission as close to the wireframe here (https://www.figma.com/file/9xx26qOGZbALmxIwbo9zWz/Dev-Task?node-id=1%3A9) but any additional flair is up to you.
+Since you have applied for a frontend position, we have supplied the GraphQL request for you and linked it to the fetch button already.
+
+The task is to style the Page and Product Cards using CSS. You can create additional page elements if you wish to. Be mindful of the page being an E-Commerce Page, so care should be taken that the design you create will not put off potential customers by being unreadable, or unuseable.
 
 We are evaluating:
 * The readability of your code
 * How you utilize git 
 * How maintainable/conventional your code is
 * How closely your submission follows the brief above
-* How closesly your submission follows the provided Figma design
 * The responsiveness of your solution
 
 We are NOT looking for the fastest/shortest solution. We recommend using VS Code for this assessment. The `Live Server` extension will give you a realtime preview of your work.
