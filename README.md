@@ -21,4 +21,6 @@ We are evaluating:
 
 We are NOT looking for the fastest/shortest solution. We recommend using VS Code for this assessment. The `Live Server` extension will give you a realtime preview of your work.
 
-To get started you should fork off this repo. Once your work is complete, update the main branch on your fork and send it back to us.
+To get started you should branch off this repository. Once your work is complete, zip the file and email it back to kenneth.gamble@mamasandpapas.com.
+
+Any questions, please email kenneth.gamble@mamasandpapas.com
